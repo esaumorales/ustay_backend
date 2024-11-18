@@ -1,6 +1,0 @@
-spring:
-  application:
-    name: servicio-service
-  cloud:
-    config:
-      uri: http://localhost:8860
