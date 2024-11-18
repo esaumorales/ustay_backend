@@ -1,0 +1,11 @@
+package com.ustay.project.entity;
+
+public class Snippet {
+	spring:
+	  application:
+	    name: persona-service
+	  cloud:
+	    config:
+	      uri: http://localhost:8860
+}
+

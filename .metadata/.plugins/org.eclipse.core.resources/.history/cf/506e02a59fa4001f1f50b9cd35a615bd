@@ -1,0 +1,5 @@
+package com.ustay.project.entity;
+
+public class Persona {
+
+}

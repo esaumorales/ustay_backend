@@ -1,0 +1,5 @@
+package com.ustay.project.repository;
+
+public class PartnerRepository {
+
+}

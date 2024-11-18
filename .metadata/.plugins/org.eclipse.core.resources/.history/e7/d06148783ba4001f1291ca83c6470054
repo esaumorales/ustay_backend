@@ -1,0 +1,14 @@
+package com.ustay.project.controller;
+
+
+@RestController
+@RequestMapping("/apiservidor")
+public class ConfigServerController 
+{
+	@GetMapping("/alta")
+	public String alta()
+	{
+		return "Servidor de configuraciones levantado";
+	}
+}
+
